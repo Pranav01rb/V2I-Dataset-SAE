@@ -1,18 +1,5 @@
 # V2I-Dataset-SAE
 
 
-Road Test:
-sha256:48fde5e3902f3b6277bd54f3a430f2f740b4cd412e56090fbaeba4caa835bc6b
-
-Scenario 1:
-sha256:ff8bbd6ddefef195e795f114e946a9b2f2c95e8ce43de1a578fe9a1f160f0341
-
-Scenario 2:
-sha256:a70d5fc509e29552f943cd738795f74a12833f318ae21d18745a569ff948b234
-
-Scenario 3:
-sha256:8051db2c9f432afefc3069005f9d114b19e3c3afd64a9366e0ea032c73d92c96
-
-Scenario 4:
-sha256:07bf8f705564f676dfa736afeb1b201cc602f5efe84b36a7421a7243270f33a5
+All ROS 2 bag archives for Scenarios 1–4 and the Road Test are available for download under the Releases section.
 
